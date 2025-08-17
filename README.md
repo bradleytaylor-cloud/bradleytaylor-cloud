@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Bradley ☁️
 
-<!--
-**bradleytaylor-cloud/bradleytaylor-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Cloud Solutions Architect & Engineer** passionate about building scalable, cost-effective systems.  
+My interests focus on **ecommerce** and **crypto**, where I explore how cloud, AI, and automation can unlock new opportunities for businesses and individuals.  
 
-Here are some ideas to get you started:
+I enjoy creating hands-on projects that blend **architecture design, automation, and machine learning** with real-world use cases.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛒 Ecommerce Cloud Projects
+- [Amazon Listing AI Content Generator]()
+- [ML Inventory Forecasting]()
+
+## ₿ Crypto Cloud Projects
+- [Ether Gas Tracker]()
+- [Other Blockchain Portfolio Projects]()
