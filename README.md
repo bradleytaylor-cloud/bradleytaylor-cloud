@@ -1,4 +1,4 @@
-# Hi, I'm Bradley ☁️
+# Bradley Taylor's Cloud Project Portfolio
 
 I'm a **Cloud Solutions Architect & Engineer** passionate about building scalable, cost-effective systems.  
 My interests focus on **ecommerce** and **crypto**, where I explore how cloud, AI, and automation can unlock new opportunities for businesses and individuals.  
